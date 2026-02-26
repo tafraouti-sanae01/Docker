@@ -581,7 +581,5 @@ docker-compose ps      # Lister les services en cours
 **Docker** = Préparer un repas dans une boîte  
 **Kubernetes** = Service de livraison qui clone et expédie des milliers de ces boîtes dans le monde entier
 
----
 
-**➡️ Prochaine étape :** Si vous maîtrisez Docker, Kubernetes est la suite logique pour la production à grande échelle !
 
